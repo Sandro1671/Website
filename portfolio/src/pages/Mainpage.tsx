@@ -1,5 +1,4 @@
-import React from 'react';
-import logo from './logo.svg';
+import logo from '../logo.svg';
 
 function Mainpage() {
   return (
@@ -13,8 +12,7 @@ function Mainpage() {
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
-        >
+          rel="noopener noreferrer">
           Learn React
         </a>
       </header>
