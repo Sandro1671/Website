@@ -1,5 +1,4 @@
 import { Routes, Route, BrowserRouter, Navigate } from 'react-router-dom';
-import './App.css';
 import Mainpage from './pages/Mainpage';
 
 function App() {
